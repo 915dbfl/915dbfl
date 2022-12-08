@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3>Skill⌨️</h3>
 
-- 🙋‍♀️ I’m good at <b>Android(Kotlin, java)</b>
-- 🌱 I’m currently learning <b>Python(Algorithm)</b>
+- 🙋‍♀️ I’m good at <b>Android</b>
+- 🌱 I’m currently learning <b>Compose, Jetpack</b>
 
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=915dbfl&show_icons=true&theme=vue)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=915dbfl&show_icons=true&theme=transparent)
