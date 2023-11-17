@@ -10,3 +10,5 @@
 
 ### 🔗 ing.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=915dbfl&show_icons=true&theme=transparent)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmy7020)](https://solved.ac/kjmy7020/)
