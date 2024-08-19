@@ -1,14 +1,12 @@
-### Hi there 👋
-------
+## Mun Yu Ri 
 
-<b>Yuri Mun</b> | Junior <b>Android Developer</b>
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
+</p>
 
-### 🔗 Experience.
-- 2019.03 - 2023.08 | Computer Engineering in Myongi University
-- 2023.04 - ing | SW Maestro 14th.
-- 2022.10 - 2023.07 | GDSC MJU 1th.
-
-### 🔗 ing.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=915dbfl&show_icons=true&theme=transparent)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmy7020)](https://solved.ac/kjmy7020/)
+- Naver BoostCamp (2024 ~)
+- SW Maestro 14th (2023)
+- GDSC MJU 1th (2022 - 2023)
